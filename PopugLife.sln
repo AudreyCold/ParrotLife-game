@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopugLife", "Assembly-CSharp.csproj", "{FB2B335B-1BCA-4F7D-B1C5-4CB771626A8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB2B335B-1BCA-4F7D-B1C5-4CB771626A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2B335B-1BCA-4F7D-B1C5-4CB771626A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2B335B-1BCA-4F7D-B1C5-4CB771626A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2B335B-1BCA-4F7D-B1C5-4CB771626A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
